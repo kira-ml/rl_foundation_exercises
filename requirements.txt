@@ -1,0 +1,16 @@
+# Core Python scientific stack (essential for RL workflows)
+numpy>=1.25.0
+matplotlib>=3.7.0
+
+# Optional: For vectorized environments or data handling
+pandas>=2.1.0
+
+# RL-related environment simulation (optional early introduction)
+gymnasium>=0.29.1  # replaces gym; lightweight OpenAI Gym environments
+
+# Optional: Typing support and linting
+typing-extensions>=4.7.0
+
+# For strict formatting/linting during exercises (optional but professional)
+black>=24.3.0
+flake8>=6.1.0

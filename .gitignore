@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.rl_env/
+ENV/
+env/
+
+# VS Code
+.vscode/
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Misc
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+*.orig
+
+# Package management
+pip-wheel-metadata/
+__pypackages__/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Linting
+.pyre/
+
+# Others
+.idea/
+*.iml
